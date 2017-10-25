@@ -1,0 +1,10 @@
+﻿<?xml version=1.0" encoding="UTF-8"?>
+<data>
+  <Adversary IADS>
+    <IADS Category="SAM">
+      <SAM>SA-2</SAM>
+      <range>MRIR: 40NM</range>
+      <alt>50,000 ft</alt>
+    </IADS>
+  </Adversary IADS>
+</data>
