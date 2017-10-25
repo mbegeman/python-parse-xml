@@ -1,8 +1,0 @@
-﻿<?xml version=1.0" encoding="UTF-8"?>
-<Adversary IADS>
-  <IADS Category="SAM">
-    <title lange="en">SA-2</title>
-    <range>40NM</range>
-    <alt>50,000 ft</alt>
-  </IADS>
-</Adversary IADS>
